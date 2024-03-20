@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @iamashishwasnik
+- 👀 I’m interested in Analysis
+- 🌱 I’m currently learning Data Science
+- 💞️ I’m looking to collaborate on agriculture-related projects
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ashishwasnik/)
